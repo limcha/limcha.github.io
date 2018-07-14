@@ -1,18 +1,6 @@
-@import url("notokr_light/stylesheet.css");
-@import url("notokr_light/stylesheet.css");
 @font-face {
-	font-family: "notokr light";
-	src: url('file:///notokr_light/notokr-light.eot');
-	src: url('file:///notokr_light/notokr-light.eot?#iefix') format('embedded-opentype'),
-url('file:///notokr_light/notokr-light.woff') format('woff');
-	line-height: 1.3em;
-	font-weight: lighter;
-}
-a {
-	color: #000000;
-	text-decoration: none;
-}
-td {
-	vertical-align: top;
-	top: 0px;
+	font-family: 'notokr light';
+	src: url('notokr-light.eot');
+	src: url('notokr-light.eot?#iefix') format('embedded-opentype'),
+		url('notokr-light.woff') format('woff');
 }
