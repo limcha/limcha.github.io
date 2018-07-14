@@ -1,0 +1,6 @@
+@font-face {
+	font-family: 'notokr light';
+	src: url('notokr-light.eot');
+	src: url('notokr-light.eot?#iefix') format('embedded-opentype'),
+		url('notokr-light.woff') format('woff');
+}
